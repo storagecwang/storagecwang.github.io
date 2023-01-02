@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/storagecwang.github.io/static/css/main.5b9253bb.css",
+    "main.js": "/storagecwang.github.io/static/js/main.5d05874a.js",
+    "index.html": "/storagecwang.github.io/index.html",
+    "main.5b9253bb.css.map": "/storagecwang.github.io/static/css/main.5b9253bb.css.map",
+    "main.5d05874a.js.map": "/storagecwang.github.io/static/js/main.5d05874a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b9253bb.css",
+    "static/js/main.5d05874a.js"
+  ]
+}
